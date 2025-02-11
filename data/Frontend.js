@@ -2,7 +2,13 @@ const dataFe = [
   {
     id: "Fe-001",
     type: "Frontend",
-    images: [],
+    images: [
+      "https://i.ibb.co.com/RpWxyQcj/PAGE-1.png",
+      "https://i.ibb.co.com/1ftYFCBd/PAGE-2.png",
+      "https://i.ibb.co.com/5h93YpNg/PAGE-3.png",
+      "https://i.ibb.co.com/sp0L34Gp/PAGE-4.png",
+      "https://i.ibb.co.com/spGK0ZPT/PAGE-5.png",
+    ],
     title: "PORTOFOLIO WEB WITH REACT JS",
     dataLink: {
       online: "https://rifki-ilham-portfolio.vercel.app/",
