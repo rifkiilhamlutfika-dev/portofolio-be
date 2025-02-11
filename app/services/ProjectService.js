@@ -11,7 +11,7 @@ const dataType = {
 };
 
 const defaultImage =
-  "https://i.pinimg.com/736x/28/63/de/2863de0f47b4a02bc497307917b800f8.jpg";
+  "https://i.ibb.co.com/ynxBrckm/DEFAULT-IMAGE-PROJECTS.webp";
 
 const getAllProjects = async (page = 1, limit = 10) => {
   const offset = (page - 1) * limit;
