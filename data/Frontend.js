@@ -3,6 +3,24 @@ const dataFe = [
     id: "Fe-001",
     type: "Frontend",
     images: [
+      "https://i.ibb.co.com/4Zgtmy4D/IMG-1.webp","https://i.ibb.co.com/Cp32FdFY/IMG-2.webp"
+    ],
+    title: "CHATBOT With GPT",
+    dataLink: {
+      online: "https://chat-with-gpt-view.vercel.app/",
+      github: "https://github.com/rifkiilhamlutfika-dev/portofolio-fe",
+      figma: "",
+    },
+    start: "2025-02-13",
+    end: "2025-02-13",
+    tech: ["react", "node"],
+    demoCode: "",
+    projectConnect: ["Be-002"],
+  },
+  {
+    id: "Fe-001",
+    type: "Frontend",
+    images: [
       "https://i.ibb.co.com/vbRYDGs/PAGE-1.png",
       "https://i.ibb.co.com/1ftYFCBd/PAGE-2.png",
       "https://i.ibb.co.com/5h93YpNg/PAGE-3.png",
