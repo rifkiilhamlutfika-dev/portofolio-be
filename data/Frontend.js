@@ -1,6 +1,6 @@
 const dataFe = [
   {
-    id: "Fe-001",
+    id: "Fe-002",
     type: "Frontend",
     images: [
       "https://i.ibb.co.com/3yYdrXS8/IMG-1.webp",
