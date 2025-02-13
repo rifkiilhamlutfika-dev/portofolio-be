@@ -1,4 +1,22 @@
 const dataBe = [
+    {
+    id: "Be-002",
+    type: "Backend",
+    images: [
+      "https://i.ibb.co.com/1fb62CBs/IMG-1.webp"
+    ],
+    title: "Chatbot using GPT Api",
+    dataLink: {
+      online: "https://chat-with-gpt-api.vercel.app",
+      github: "https://github.com/rifkiilhamlutfika-dev/chat_with_gpt_api",
+      figma: "",
+    },
+    start: "2025-02-13",
+    end: "2025-02-13",
+    tech: ["express", "node"],
+    demoCode: "",
+    projectConnect: ["Fe-002"],
+  },
   {
     id: "Be-001",
     type: "Backend",
