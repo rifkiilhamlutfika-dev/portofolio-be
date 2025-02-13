@@ -3,7 +3,7 @@ const dataBe = [
     id: "Be-002",
     type: "Backend",
     images: [
-      "https://i.ibb.co.com/1fb62CBs/IMG-1.webp"
+      "https://i.ibb.co.com/VW3mBFbH/IMG-1.webp"
     ],
     title: "Chatbot using GPT Api",
     dataLink: {
