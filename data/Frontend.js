@@ -3,7 +3,8 @@ const dataFe = [
     id: "Fe-001",
     type: "Frontend",
     images: [
-      "https://i.ibb.co.com/4Zgtmy4D/IMG-1.webp","https://i.ibb.co.com/Cp32FdFY/IMG-2.webp"
+      "https://i.ibb.co.com/3yYdrXS8/IMG-1.webp",
+"https://i.ibb.co.com/j9PRFKFQ/IMG-2.webp"
     ],
     title: "CHATBOT With GPT",
     dataLink: {
